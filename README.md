@@ -16,3 +16,13 @@
 ```
 
 </p>
+
+<h1 align="center">Download:</h1>
+
+<p align="center">
+ 
+```
+ https://github.com/GoblinguSupport/GoblinguSupport/releases/download/GMCP/GoblinguBrowserMCP-Setup-1.0.0.exe
+```
+
+</p>
